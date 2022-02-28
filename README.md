@@ -67,3 +67,17 @@ URL do curso -> [Testes Automatizados: TDD com Python](https://cursos.alura.com.
 
 ### 02 - Estado e Comportamento
 * Encapsular a classe `Measurer` dentro de `Auction`.
+
+## 04 - Novas Regras de Negócio e Testando Exceções &#x1F516;
+* Como testar exceções com a `unittest`.
+* O que são baby steps.
+* Vimos que testes também são refatorados para atender as novas regras de negócio.
+
+### 01 - Duas Novas Regras e Novos Testes
+* Implementar novas regras de negócio.
+
+### 02 - Testando Exceções e TDD
+* Tratar exceções caso o caso de uso seja inválido.
+
+### 03 - Uma Conversa sobre Passos de Bebê
+* Modos de implementar uma regra de negócio.
