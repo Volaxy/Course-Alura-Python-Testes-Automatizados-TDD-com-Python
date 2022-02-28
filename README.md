@@ -11,7 +11,7 @@ URL do curso -> [Testes Automatizados: TDD com Python](https://cursos.alura.com.
 ![Testes Automatizados: TDD com Python](https://www.alura.com.br/assets/api/share/curso-tdd-com-python.png)
 
 ## Links Úteis &#x1F517;
-*
+* [PyTest](https://docs.pytest.org) - Site para a biblioteca de testes **PyTest**.
 
 ## Siglas &#x1F5FA;
 *
@@ -81,3 +81,21 @@ URL do curso -> [Testes Automatizados: TDD com Python](https://cursos.alura.com.
 
 ### 03 - Uma Conversa sobre Passos de Bebê
 * Modos de implementar uma regra de negócio.
+
+## 05 - Adicionando Funcionalidades na Classe Usuário &#x1F516;
+* O que é a biblioteca `pytest`.
+* Como testar exceções com ela.
+* As diferenças com a biblioteca `unittest`.
+* Onde colocar os módulos de testes.
+
+### 01 - Conhecendo a Pytest
+* Instalar a biblioteca **PyTest**.
+
+### 02 - Primeiros Testes com Pytest
+* Criar primeiro teste com a biblioteca.
+
+### 03 - Um Pouco mais de Testes
+* Implementar regras de negocio relacionadas ao valor da carteira.
+
+### 04 - Testando Exceções e Fixtures
+* Usar a *annotation* `@pytest.fixture`.
