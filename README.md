@@ -37,3 +37,20 @@ URL do curso -> [Testes Automatizados: TDD com Python](https://cursos.alura.com.
 ### 03 - Começando com Testes de Unidade
 * Utilizar um *Framework* para testar as aplicações **Python**.
 * Usar o método `assertEqual(EXPECTED_VALUE, VALUE_RECEIVED)` para verificar se o valor corresponde ao esperado.
+
+## 02 - Boas Práticas e mais alguns Testes &#x1F516;
+* Formas de nomear os testes.
+* Porque é importante dar nomes semânticos aos testes.
+* Como isolar o cenário com o método `setUp`.
+
+### 01 - Criando um novo Teste
+* Criando um novo teste.
+
+### 02 - Renomeando os Testes
+* Nomear o nome dos métodos.
+
+### 03 - Mais Testes e Classes de Equivalência
+* **Classes de Equivalência** são testes parecidos com outros testes já feitos.
+
+### 04 - Isolando a Criação do Cenário
+* O método `setUp()` é executado antes de cada teste.
