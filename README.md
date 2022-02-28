@@ -54,3 +54,16 @@ URL do curso -> [Testes Automatizados: TDD com Python](https://cursos.alura.com.
 
 ### 04 - Isolando a Criação do Cenário
 * O método `setUp()` é executado antes de cada teste.
+
+## 03 - Remodelando as Classes de Domínio &#x1F516;
+* Como realizar uma cópia rasa de lista.
+* Um pouco de programação defensiva.
+* Conceitos como encapsulamento e comportamento.
+* Como os testes ajudam na modelagem das classes.
+
+### 01 - Um Pouco de Encapsulamento
+* Encapsular os métodos da classe `Auction`.
+* Retornar uma **cópia** de uma lista com `[:]`.
+
+### 02 - Estado e Comportamento
+* Encapsular a classe `Measurer` dentro de `Auction`.
