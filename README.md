@@ -99,3 +99,14 @@ URL do curso -> [Testes Automatizados: TDD com Python](https://cursos.alura.com.
 
 ### 04 - Testando Exceções e Fixtures
 * Usar a *annotation* `@pytest.fixture`.
+
+## 06 - Refatorando o Projeto &#x1F516;
+* Criar exceções.
+* Técnicas de refatoração.
+* A importância de manter um código legível.
+
+### 01 - Isolando as Condições
+* Refatoração da classe `Auction`.
+
+### 02 - Criando uma Exceção ao Negócio
+* Criar uma nova exceção.
